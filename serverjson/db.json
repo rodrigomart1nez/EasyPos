@@ -1,0 +1,127 @@
+{
+  "products": [
+    {
+      "code": "0031",
+      "description": "Logitech Mx Master 3",
+      "subtype": "Mouse",
+      "price": "99.99",
+      "units": "25",
+      "id": 1
+    },
+    {
+      "code": "12345",
+      "description": "Logitech Mx Master 2",
+      "subtype": "Mouse",
+      "price": "60",
+      "units": "19",
+      "id": 2
+    },
+    {
+      "code": "123",
+      "description": "MacBook Pro",
+      "subtype": "500gb Black",
+      "units": "2",
+      "price": "999",
+      "id": 3
+    },
+    {
+      "code": "0990",
+      "description": "Cannon EOS m-200",
+      "price": "450",
+      "units": "3",
+      "subtype": "with EF lens",
+      "id": 4
+    },
+    {
+      "code": "0991",
+      "description": "iPhone Charger",
+      "price": "5",
+      "units": "23",
+      "subtype": "lightning to usb c",
+      "id": 5
+    },
+    {
+      "code": "0994",
+      "description": "Yamaha P125 Piano",
+      "price": "200",
+      "units": "5",
+      "subtype": "with normal keys",
+      "id": 7
+    },
+    {
+      "code": "0995",
+      "description": "HDMI Cable",
+      "price": "7",
+      "units": "78",
+      "subtype": "red",
+      "id": 8
+    },
+    {
+      "code": "0996",
+      "description": "HDMI Cable",
+      "price": "7",
+      "units": "87",
+      "subtype": "black",
+      "id": 9
+    },
+    {
+      "code": "0998",
+      "description": " Usb C to Usb Cable",
+      "price": "6",
+      "units": "54",
+      "subtype": "grey",
+      "id": 11
+    },
+    {
+      "description": "Usb C to Usb Cable",
+      "code": "0999",
+      "price": "6",
+      "units": "45",
+      "subtype": "blue",
+      "id": 12
+    },
+    {
+      "code": "3453",
+      "description": "mouse",
+      "price": "12",
+      "units": "34",
+      "subtype": "blue",
+      "id": 13
+    }
+  ],
+  "pos": [
+    {
+      "code": "0994",
+      "description": "Yamaha P125 Piano",
+      "price": "200",
+      "quantity": 1,
+      "units": "5",
+      "subtype": "with normal keys",
+      "product_id": 7,
+      "date": "2020/10/15",
+      "id": 1
+    },
+    {
+      "code": "0996",
+      "description": "HDMI Cable",
+      "price": "7",
+      "quantity": "7",
+      "units": "87",
+      "subtype": "black",
+      "product_id": 9,
+      "date": "2020/10/15",
+      "id": 3
+    },
+    {
+      "code": "0031",
+      "description": "Logitech Mx Master 3",
+      "price": "99.99",
+      "quantity": "2",
+      "units": "25",
+      "subtype": "Mouse",
+      "product_id": 1,
+      "date": "2020/10/15",
+      "id": 4
+    }
+  ]
+}
